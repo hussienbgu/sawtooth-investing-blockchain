@@ -1,0 +1,1412 @@
+INFO:root:payload: addstartup,addstartup,intel,www.intel.com,israel,0
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=580783cf1871d1a0da8f549f5fe62dd9597fb88e6a7c85eabebc001415f950e51c684a00e9d8bf1f18b75504181543b0e3b03a510af2b2a07d5af2189c586f7e&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=580783cf1871d1a0da8f549f5fe62dd9597fb88e6a7c85eabebc001415f950e51c684a00e9d8bf1f18b75504181543b0e3b03a510af2b2a07d5af2189c586f7e&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=580783cf1871d1a0da8f549f5fe62dd9597fb88e6a7c85eabebc001415f950e51c684a00e9d8bf1f18b75504181543b0e3b03a510af2b2a07d5af2189c586f7e&wait=5 HTTP/1.1" 200 425
+INFO:root:intel added
+INFO:root:payload: invest,invest,afnan,intel
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=cfd7834f1c612ec535d90935bd89c7d1d6e6c58a56ace0e36edf872366a67b784eae49156c0996c660b0039a3d09f1fec3806f70bdafac19f00973c9bc3ec329&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=cfd7834f1c612ec535d90935bd89c7d1d6e6c58a56ace0e36edf872366a67b784eae49156c0996c660b0039a3d09f1fec3806f70bdafac19f00973c9bc3ec329&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=cfd7834f1c612ec535d90935bd89c7d1d6e6c58a56ace0e36edf872366a67b784eae49156c0996c660b0039a3d09f1fec3806f70bdafac19f00973c9bc3ec329&wait=5 HTTP/1.1" 200 676
+INFO:root:payload: addstartup,wix,www.intel.com,israel,5000,0
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=7eef2e33baa9ee20fc8d9ddb947dfeabad0a327501c354cc2b0c363a02d04102117b24e3dd058683a26aba7df966a8f5b74355bafaa4e99b383704f71ee5d5ce&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=7eef2e33baa9ee20fc8d9ddb947dfeabad0a327501c354cc2b0c363a02d04102117b24e3dd058683a26aba7df966a8f5b74355bafaa4e99b383704f71ee5d5ce&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=7eef2e33baa9ee20fc8d9ddb947dfeabad0a327501c354cc2b0c363a02d04102117b24e3dd058683a26aba7df966a8f5b74355bafaa4e99b383704f71ee5d5ce&wait=5 HTTP/1.1" 200 425
+INFO:root:wix added
+INFO:root:payload: invest,afnan,wix,2000
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=d2c72816067be9881f5f87d8a0db6f332e7e1fe38a13a40d084eebb185afa1bd17182a2272f0841cf6ac51eec648bbd8780800aedc92f1a21aefa1e9f8e66e4b&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=d2c72816067be9881f5f87d8a0db6f332e7e1fe38a13a40d084eebb185afa1bd17182a2272f0841cf6ac51eec648bbd8780800aedc92f1a21aefa1e9f8e66e4b&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=d2c72816067be9881f5f87d8a0db6f332e7e1fe38a13a40d084eebb185afa1bd17182a2272f0841cf6ac51eec648bbd8780800aedc92f1a21aefa1e9f8e66e4b&wait=5 HTTP/1.1" 200 425
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 455
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 455
+INFO:root:sending to http://rest-api:8008/state/cc6afd0e7ac4096880068c229d77c082291f95a431b074898d89af68966b16ee1dd6ad
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd0e7ac4096880068c229d77c082291f95a431b074898d89af68966b16ee1dd6ad HTTP/1.1" 404 134
+DEBUG:root:Error 404: Not Found
+INFO:root:payload: addstartup,intel,www.intel.com,israel,5000,0
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=6e2a0522222659818e988bbf2498f78f90c2127987e0bed51bd056b40d701ea00d2bbbc0cb96916573d7e212bf453908f39d705967ebe856faeb98798a0f89a0&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=6e2a0522222659818e988bbf2498f78f90c2127987e0bed51bd056b40d701ea00d2bbbc0cb96916573d7e212bf453908f39d705967ebe856faeb98798a0f89a0&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=6e2a0522222659818e988bbf2498f78f90c2127987e0bed51bd056b40d701ea00d2bbbc0cb96916573d7e212bf453908f39d705967ebe856faeb98798a0f89a0&wait=5 HTTP/1.1" 200 425
+INFO:root:intel added
+INFO:root:payload: addstartup,wix,www.wix.com,israel,5000,0
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=05319b38511cd9d21cc2bcfc9048c786f0a40a1a1de3f96d41340aae653be9e136f9e59444c4afdfbe65091bce720fa66b255f40b676e3ee5d1fc20709d8445c&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=05319b38511cd9d21cc2bcfc9048c786f0a40a1a1de3f96d41340aae653be9e136f9e59444c4afdfbe65091bce720fa66b255f40b676e3ee5d1fc20709d8445c&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=05319b38511cd9d21cc2bcfc9048c786f0a40a1a1de3f96d41340aae653be9e136f9e59444c4afdfbe65091bce720fa66b255f40b676e3ee5d1fc20709d8445c&wait=5 HTTP/1.1" 200 425
+INFO:root:wix added
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 447
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 447
+INFO:root:payload: invest,afnan,intel,2000
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=24d84deca2af1fa0229f0f4b0232fe99b53bd08dc843d38b97275cb44c51346370d1b02b64cb474a48e651b63a5f2faa35e68187f8ec656209f2ceb4787c947e&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=24d84deca2af1fa0229f0f4b0232fe99b53bd08dc843d38b97275cb44c51346370d1b02b64cb474a48e651b63a5f2faa35e68187f8ec656209f2ceb4787c947e&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=24d84deca2af1fa0229f0f4b0232fe99b53bd08dc843d38b97275cb44c51346370d1b02b64cb474a48e651b63a5f2faa35e68187f8ec656209f2ceb4787c947e&wait=5 HTTP/1.1" 200 425
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 451
+INFO:root:sending to http://rest-api:8008/state/cc6afd0e7ac4096880068c229d77c082291f95a431b074898d89af68966b16ee1dd6ad
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd0e7ac4096880068c229d77c082291f95a431b074898d89af68966b16ee1dd6ad HTTP/1.1" 200 411
+INFO:root:payload: addstartup,intel,www.intel.com,israel,5000,0
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=712ab4b24f83be39a30c555eb2064c2d82d87acdc0f2f95d9d5653b22f23d95b272580178ccb9cbfc999b14d95c7cd1d27419554573fc2471e686836b07d2f65&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=712ab4b24f83be39a30c555eb2064c2d82d87acdc0f2f95d9d5653b22f23d95b272580178ccb9cbfc999b14d95c7cd1d27419554573fc2471e686836b07d2f65&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=712ab4b24f83be39a30c555eb2064c2d82d87acdc0f2f95d9d5653b22f23d95b272580178ccb9cbfc999b14d95c7cd1d27419554573fc2471e686836b07d2f65&wait=5 HTTP/1.1" 200 425
+INFO:root:intel added
+INFO:root:payload: addstartup,wix,www.wix.com,israel,5000,0
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=555b2efa2651cd822bcbec75698f995d53beb96a6345ff5744661b0c5cea103e5cb6c302e261e34de96a7177ec99b84523c9a614cf6a4f876c15c94920643a7d&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=555b2efa2651cd822bcbec75698f995d53beb96a6345ff5744661b0c5cea103e5cb6c302e261e34de96a7177ec99b84523c9a614cf6a4f876c15c94920643a7d&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=555b2efa2651cd822bcbec75698f995d53beb96a6345ff5744661b0c5cea103e5cb6c302e261e34de96a7177ec99b84523c9a614cf6a4f876c15c94920643a7d&wait=5 HTTP/1.1" 200 425
+INFO:root:wix added
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 447
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 447
+INFO:root:payload: invest,afnan,intel,2000
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=fed4bdf51dec6a64145858f886e512ef1868af25364db31dc7bd490c09bb424c3879349cd3a8213a3dc659dcb43b263c4b686df1979ce4ce44f5afc7decb76a4&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=fed4bdf51dec6a64145858f886e512ef1868af25364db31dc7bd490c09bb424c3879349cd3a8213a3dc659dcb43b263c4b686df1979ce4ce44f5afc7decb76a4&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=fed4bdf51dec6a64145858f886e512ef1868af25364db31dc7bd490c09bb424c3879349cd3a8213a3dc659dcb43b263c4b686df1979ce4ce44f5afc7decb76a4&wait=5 HTTP/1.1" 200 425
+INFO:root:payload: invest,huss,wix,2000
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=df0b5e40520f9da49717e4e6d7fae8b67c44181923b7539e6b709c4a71c1e70714cfb2447d4b3adf3e042b3a3dda8160ba822389db497aff1f1e9b31c66bfee0&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=df0b5e40520f9da49717e4e6d7fae8b67c44181923b7539e6b709c4a71c1e70714cfb2447d4b3adf3e042b3a3dda8160ba822389db497aff1f1e9b31c66bfee0&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=df0b5e40520f9da49717e4e6d7fae8b67c44181923b7539e6b709c4a71c1e70714cfb2447d4b3adf3e042b3a3dda8160ba822389db497aff1f1e9b31c66bfee0&wait=5 HTTP/1.1" 200 425
+INFO:root:sending to http://rest-api:8008/state/cc6afd0e7ac4096880068c229d77c082291f95a431b074898d89af68966b16ee1dd6ad
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd0e7ac4096880068c229d77c082291f95a431b074898d89af68966b16ee1dd6ad HTTP/1.1" 200 411
+INFO:root:payload: addstartup,intel,www.intel.com,israel,5000,0
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=ae5072d19d06c5eeaee5d513bdc0ffee370c1d08af9aa49369857408653c437b1caa1768b46de49333eaee60c4d607fd8c33ddfabf6d7fed1a78a5e4a89e6c6c&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=ae5072d19d06c5eeaee5d513bdc0ffee370c1d08af9aa49369857408653c437b1caa1768b46de49333eaee60c4d607fd8c33ddfabf6d7fed1a78a5e4a89e6c6c&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=ae5072d19d06c5eeaee5d513bdc0ffee370c1d08af9aa49369857408653c437b1caa1768b46de49333eaee60c4d607fd8c33ddfabf6d7fed1a78a5e4a89e6c6c&wait=5 HTTP/1.1" 200 425
+INFO:root:intel added
+INFO:root:payload: addstartup,wix,www.wix.com,israel,5000,0
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=e3d84746647d48678cb0e032c7f0f8de124f11e1b05300669d494fa894b346c623b76c1621d8504bc297f716da8c5b1771e6f1acdb31cfd1f37ad087ead4bff9&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=e3d84746647d48678cb0e032c7f0f8de124f11e1b05300669d494fa894b346c623b76c1621d8504bc297f716da8c5b1771e6f1acdb31cfd1f37ad087ead4bff9&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=e3d84746647d48678cb0e032c7f0f8de124f11e1b05300669d494fa894b346c623b76c1621d8504bc297f716da8c5b1771e6f1acdb31cfd1f37ad087ead4bff9&wait=5 HTTP/1.1" 200 425
+INFO:root:wix added
+INFO:root:payload: addstartup,fly,www.fly.com,israel,5000,0
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=565995052abc802f5e385828d7c9799336508bc5499faac5f46c07b12511f8053ee1ad26dcf9204d185ee5c7679ed480198474ce1abdba7b03cb840f55adb8b8&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=565995052abc802f5e385828d7c9799336508bc5499faac5f46c07b12511f8053ee1ad26dcf9204d185ee5c7679ed480198474ce1abdba7b03cb840f55adb8b8&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=565995052abc802f5e385828d7c9799336508bc5499faac5f46c07b12511f8053ee1ad26dcf9204d185ee5c7679ed480198474ce1abdba7b03cb840f55adb8b8&wait=5 HTTP/1.1" 200 425
+INFO:root:fly added
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 447
+INFO:root:payload: addstartup,intel,www.intel.com,israel,5000,0
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=53f6cdd2ce2668644adaaa74e62abdece829c8b140ea192c76cc8d0ba0bbd5a2469e7fdbbf9455aa1f43ed248614f424ab9f58ab4df25e616e336d2f6e2d0c1c&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=53f6cdd2ce2668644adaaa74e62abdece829c8b140ea192c76cc8d0ba0bbd5a2469e7fdbbf9455aa1f43ed248614f424ab9f58ab4df25e616e336d2f6e2d0c1c&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=53f6cdd2ce2668644adaaa74e62abdece829c8b140ea192c76cc8d0ba0bbd5a2469e7fdbbf9455aa1f43ed248614f424ab9f58ab4df25e616e336d2f6e2d0c1c&wait=5 HTTP/1.1" 200 425
+INFO:root:intel added
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 447
+INFO:root:payload: addstartup,wix,www.intel.com,israel,5000,0
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=5eafca7f4dc4f2918514bd0da1fa0531d703d55a9e179e808d990505681774d02230c6de9309ee8778953ceb3681e0bae2e44ecdd0cd48a449005f3c387722aa&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=5eafca7f4dc4f2918514bd0da1fa0531d703d55a9e179e808d990505681774d02230c6de9309ee8778953ceb3681e0bae2e44ecdd0cd48a449005f3c387722aa&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=5eafca7f4dc4f2918514bd0da1fa0531d703d55a9e179e808d990505681774d02230c6de9309ee8778953ceb3681e0bae2e44ecdd0cd48a449005f3c387722aa&wait=5 HTTP/1.1" 200 425
+INFO:root:wix added
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 447
+INFO:root:payload: addstartup,wixx,www.intel.com,israel,5000,0
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=08e2776408c2af21f5d0d89bb449d6db67de078fc6f2a6c8564652293d76005d318918a361db3e23c8744f4a1c178d1ffc2cdc8cdad58ec28e93c10775e6225d&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=08e2776408c2af21f5d0d89bb449d6db67de078fc6f2a6c8564652293d76005d318918a361db3e23c8744f4a1c178d1ffc2cdc8cdad58ec28e93c10775e6225d&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=08e2776408c2af21f5d0d89bb449d6db67de078fc6f2a6c8564652293d76005d318918a361db3e23c8744f4a1c178d1ffc2cdc8cdad58ec28e93c10775e6225d&wait=5 HTTP/1.1" 200 425
+INFO:root:wixx added
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 447
+INFO:root:payload: addstartup,intel,www.intel.com,israel,5000,0
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=50b7c66c38075149d1a82dd9977b255ba1dc5a5a8e1d8951515a8dcf92565ee87e90df73a4a2ce94442c2b7ea186ad3fd92f617694f47657f790450e0da36c8a&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=50b7c66c38075149d1a82dd9977b255ba1dc5a5a8e1d8951515a8dcf92565ee87e90df73a4a2ce94442c2b7ea186ad3fd92f617694f47657f790450e0da36c8a&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=50b7c66c38075149d1a82dd9977b255ba1dc5a5a8e1d8951515a8dcf92565ee87e90df73a4a2ce94442c2b7ea186ad3fd92f617694f47657f790450e0da36c8a&wait=5 HTTP/1.1" 200 425
+INFO:root:intel added
+INFO:root:payload: addstartup,wix,www.intel.com,israel,5000,0
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=12c3271fe54e29e8fe788f2330b51f69761e35c89af4bb1fea41e6781cb3b12b49bda6b53968bc1256e4c9962ecfd99b807ca64a88944c626c410465a3421b81&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=12c3271fe54e29e8fe788f2330b51f69761e35c89af4bb1fea41e6781cb3b12b49bda6b53968bc1256e4c9962ecfd99b807ca64a88944c626c410465a3421b81&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=12c3271fe54e29e8fe788f2330b51f69761e35c89af4bb1fea41e6781cb3b12b49bda6b53968bc1256e4c9962ecfd99b807ca64a88944c626c410465a3421b81&wait=5 HTTP/1.1" 200 425
+INFO:root:wix added
+INFO:root:payload: addstartup,fly,www.intel.com,israel,5000,0
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=64644c7c9fdd94fd11308ea0b994b228c8f8cf08402cf3625435004d405fc984555c5e3995ced21424c6f3e599ddbd1b7498a0c62d116fdded01343cd334c96b&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=64644c7c9fdd94fd11308ea0b994b228c8f8cf08402cf3625435004d405fc984555c5e3995ced21424c6f3e599ddbd1b7498a0c62d116fdded01343cd334c96b&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=64644c7c9fdd94fd11308ea0b994b228c8f8cf08402cf3625435004d405fc984555c5e3995ced21424c6f3e599ddbd1b7498a0c62d116fdded01343cd334c96b&wait=5 HTTP/1.1" 200 425
+INFO:root:fly added
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 447
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 447
+INFO:root:payload: addstartup,intel,www.intel.com,israel,5000,0
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=c57151e0c15098c20a689f90a1ba8a88f89f9bded4894b2e77207c95e40e043965c8e22e7af46be2bbf1f801f90bcdb46ff714a182111e5839e0972bb7a7d586&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=c57151e0c15098c20a689f90a1ba8a88f89f9bded4894b2e77207c95e40e043965c8e22e7af46be2bbf1f801f90bcdb46ff714a182111e5839e0972bb7a7d586&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=c57151e0c15098c20a689f90a1ba8a88f89f9bded4894b2e77207c95e40e043965c8e22e7af46be2bbf1f801f90bcdb46ff714a182111e5839e0972bb7a7d586&wait=5 HTTP/1.1" 200 425
+INFO:root:intel added
+INFO:root:payload: addstartup,intel,www.intel.com,israel,5000,0
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=9edad05d0a88bff17827ec588630ad7eaadfcdcc4739939d375d9c872d1d3d4840d3de5a7b63ddf116d0815d274146cd21833fd1d17764197ab2255ce0151e56&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=9edad05d0a88bff17827ec588630ad7eaadfcdcc4739939d375d9c872d1d3d4840d3de5a7b63ddf116d0815d274146cd21833fd1d17764197ab2255ce0151e56&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=9edad05d0a88bff17827ec588630ad7eaadfcdcc4739939d375d9c872d1d3d4840d3de5a7b63ddf116d0815d274146cd21833fd1d17764197ab2255ce0151e56&wait=5 HTTP/1.1" 200 425
+INFO:root:intel added
+INFO:root:payload: addstartup,wix,www.intel.com,israel,5000,0
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=888c98638edb63763543d7a967796607cbcb2e9292af0421c608b7af763ba95400f8261ca9623d70baa7a7f10c9eaf3925fccf20d81b02eca1a31f5e6cd997f0&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=888c98638edb63763543d7a967796607cbcb2e9292af0421c608b7af763ba95400f8261ca9623d70baa7a7f10c9eaf3925fccf20d81b02eca1a31f5e6cd997f0&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=888c98638edb63763543d7a967796607cbcb2e9292af0421c608b7af763ba95400f8261ca9623d70baa7a7f10c9eaf3925fccf20d81b02eca1a31f5e6cd997f0&wait=5 HTTP/1.1" 200 425
+INFO:root:wix added
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 491
+INFO:root:payload: addstartup,intel,www.intel.com,israel,5000,0
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=a29dcb55dffb6fdeb9d1d10f32d1f03a1b1293a5e7aac8fabf87575d858c438b6c1c81da79d903059207074cd637c72f8b7d62ab8ce9eaae135a261bbfad0f41&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=a29dcb55dffb6fdeb9d1d10f32d1f03a1b1293a5e7aac8fabf87575d858c438b6c1c81da79d903059207074cd637c72f8b7d62ab8ce9eaae135a261bbfad0f41&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=a29dcb55dffb6fdeb9d1d10f32d1f03a1b1293a5e7aac8fabf87575d858c438b6c1c81da79d903059207074cd637c72f8b7d62ab8ce9eaae135a261bbfad0f41&wait=5 HTTP/1.1" 200 425
+INFO:root:intel added
+INFO:root:payload: invest,afnan,intel,6000
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=55b35b28dfdf866fda37802977b25030fb78af0187727fdddab51a504cc51d7c62b3574cc648acf491cd0cad38703147987236db1ce79a13739ec9e9f832fede&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=55b35b28dfdf866fda37802977b25030fb78af0187727fdddab51a504cc51d7c62b3574cc648acf491cd0cad38703147987236db1ce79a13739ec9e9f832fede&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=55b35b28dfdf866fda37802977b25030fb78af0187727fdddab51a504cc51d7c62b3574cc648acf491cd0cad38703147987236db1ce79a13739ec9e9f832fede&wait=5 HTTP/1.1" 200 425
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 491
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 491
+INFO:root:payload: invest,afnan,intel,2000
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=cadadb7a0c27b273ee5038d49e9b301c309802653273efbdd59ff62e6d85017b1cb05043adce86a05d7443748bc04cf54934bd8f0d1d866f44205263a8ba210e&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=cadadb7a0c27b273ee5038d49e9b301c309802653273efbdd59ff62e6d85017b1cb05043adce86a05d7443748bc04cf54934bd8f0d1d866f44205263a8ba210e&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=cadadb7a0c27b273ee5038d49e9b301c309802653273efbdd59ff62e6d85017b1cb05043adce86a05d7443748bc04cf54934bd8f0d1d866f44205263a8ba210e&wait=5 HTTP/1.1" 200 425
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 495
+INFO:root:payload: invest,afnan,intel,200
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=7db581605bc3d3ef08426b67248398f8bcff9e0b77662cbb736b1c2e0b1e60de14469765b133e6fe456c2cb89d5b537283160955c9f40c5b2e930f7449791d81&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=7db581605bc3d3ef08426b67248398f8bcff9e0b77662cbb736b1c2e0b1e60de14469765b133e6fe456c2cb89d5b537283160955c9f40c5b2e930f7449791d81&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=7db581605bc3d3ef08426b67248398f8bcff9e0b77662cbb736b1c2e0b1e60de14469765b133e6fe456c2cb89d5b537283160955c9f40c5b2e930f7449791d81&wait=5 HTTP/1.1" 200 425
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 495
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 495
+INFO:root:payload: invest,afnan,wix,200
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=e5e2d850bc501de968af9e05d741b3c77765acadce20a6f675f9804f0cb42bd85ab391ebba1a8d3299fc14ef3ff64c2366ea68e9fdcf5a4f6bad5dbcb5ca4b32&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=e5e2d850bc501de968af9e05d741b3c77765acadce20a6f675f9804f0cb42bd85ab391ebba1a8d3299fc14ef3ff64c2366ea68e9fdcf5a4f6bad5dbcb5ca4b32&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=e5e2d850bc501de968af9e05d741b3c77765acadce20a6f675f9804f0cb42bd85ab391ebba1a8d3299fc14ef3ff64c2366ea68e9fdcf5a4f6bad5dbcb5ca4b32&wait=5 HTTP/1.1" 200 425
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 495
+INFO:root:payload: invest,afnan,wix,3000
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=2a797a416602619f41d594747a6e27eb935cc9b6afdddf532dc84e21ac74eb326aa5b1383e8f8cf5787cd45e8cb6c25f3663296a987217b0bd5f451fca487c60&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=2a797a416602619f41d594747a6e27eb935cc9b6afdddf532dc84e21ac74eb326aa5b1383e8f8cf5787cd45e8cb6c25f3663296a987217b0bd5f451fca487c60&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=2a797a416602619f41d594747a6e27eb935cc9b6afdddf532dc84e21ac74eb326aa5b1383e8f8cf5787cd45e8cb6c25f3663296a987217b0bd5f451fca487c60&wait=5 HTTP/1.1" 200 425
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 499
+INFO:root:payload: addstartup,intel,www.intel.com,israel,5000,0
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=a93b0c947a0e64d20372487877636cc72071eb98d9c6cb2190290623c159b2971c3fc4532e47c6cac4c6bd95f38f0286fc75cdb6f0429525a85bba475e3fa555&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=a93b0c947a0e64d20372487877636cc72071eb98d9c6cb2190290623c159b2971c3fc4532e47c6cac4c6bd95f38f0286fc75cdb6f0429525a85bba475e3fa555&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=a93b0c947a0e64d20372487877636cc72071eb98d9c6cb2190290623c159b2971c3fc4532e47c6cac4c6bd95f38f0286fc75cdb6f0429525a85bba475e3fa555&wait=5 HTTP/1.1" 200 425
+INFO:root:intel added
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 447
+INFO:root:payload: invest,afnan,intel,2000
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=a5ea03a56f168dbff08362db42e256b888a005237f0cbec4e38082d0946cda573fd3e8234c3fcf47b0cf94eaa3983cbe3a587e9055f50cdee540502358a9c148&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=a5ea03a56f168dbff08362db42e256b888a005237f0cbec4e38082d0946cda573fd3e8234c3fcf47b0cf94eaa3983cbe3a587e9055f50cdee540502358a9c148&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=a5ea03a56f168dbff08362db42e256b888a005237f0cbec4e38082d0946cda573fd3e8234c3fcf47b0cf94eaa3983cbe3a587e9055f50cdee540502358a9c148&wait=5 HTTP/1.1" 200 425
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 451
+INFO:root:payload: invest,afnan,intel,300
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=382b1f7715700d7473a3c4adb737fa9b0e921f50c22cdad2017f1d37c8d534de43f0e30f9855ac29ac10d444c705575c3627fbb3fff0c82a6e2677ce85595941&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=382b1f7715700d7473a3c4adb737fa9b0e921f50c22cdad2017f1d37c8d534de43f0e30f9855ac29ac10d444c705575c3627fbb3fff0c82a6e2677ce85595941&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=382b1f7715700d7473a3c4adb737fa9b0e921f50c22cdad2017f1d37c8d534de43f0e30f9855ac29ac10d444c705575c3627fbb3fff0c82a6e2677ce85595941&wait=5 HTTP/1.1" 200 425
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 451
+INFO:root:payload: addstartup,intel,www.intel.com,israel,5000,0
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=1199bfb4e23b4a0a02a8b6f6dbea9dc014ac948751ce7a296e05f0b217cbaf36575b2ae9650a3da88f69a74b994ed901e4329ae01f793dea6e9ed558f129ad49&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=1199bfb4e23b4a0a02a8b6f6dbea9dc014ac948751ce7a296e05f0b217cbaf36575b2ae9650a3da88f69a74b994ed901e4329ae01f793dea6e9ed558f129ad49&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=1199bfb4e23b4a0a02a8b6f6dbea9dc014ac948751ce7a296e05f0b217cbaf36575b2ae9650a3da88f69a74b994ed901e4329ae01f793dea6e9ed558f129ad49&wait=5 HTTP/1.1" 200 425
+INFO:root:intel added
+INFO:root:payload: invest,afnan,intel,2000
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=0ba318e75bf3eb7cbe053bdb636f21ec5c501fe942b1489d10ad2a90b39a80d82e8398cf5c4214bd48b907e50a8b18c8ec60124023f1cb6e13d020be081049ea&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=0ba318e75bf3eb7cbe053bdb636f21ec5c501fe942b1489d10ad2a90b39a80d82e8398cf5c4214bd48b907e50a8b18c8ec60124023f1cb6e13d020be081049ea&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=0ba318e75bf3eb7cbe053bdb636f21ec5c501fe942b1489d10ad2a90b39a80d82e8398cf5c4214bd48b907e50a8b18c8ec60124023f1cb6e13d020be081049ea&wait=5 HTTP/1.1" 200 425
+INFO:root:payload: invest,afnan,intel,1000
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=8fdf085d419d1e29535b57243f3992c194a35515ce4af282d51b3c2e2aa82a7a17e982bc7c761a41168544fe39e66aeae4159060d5c0b26ae949d2676093eaf1&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=8fdf085d419d1e29535b57243f3992c194a35515ce4af282d51b3c2e2aa82a7a17e982bc7c761a41168544fe39e66aeae4159060d5c0b26ae949d2676093eaf1&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=8fdf085d419d1e29535b57243f3992c194a35515ce4af282d51b3c2e2aa82a7a17e982bc7c761a41168544fe39e66aeae4159060d5c0b26ae949d2676093eaf1&wait=5 HTTP/1.1" 200 425
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 451
+INFO:root:payload: invest,afnan,intel,2000
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=a24c6ee11b76c9b55877009fd4b368d073066f852646c2cf923fe9a383a308120d970de611fb694ceb6f13dd333c08c38b8f8487061dab9951d746a2bd07bcd2&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=a24c6ee11b76c9b55877009fd4b368d073066f852646c2cf923fe9a383a308120d970de611fb694ceb6f13dd333c08c38b8f8487061dab9951d746a2bd07bcd2&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=a24c6ee11b76c9b55877009fd4b368d073066f852646c2cf923fe9a383a308120d970de611fb694ceb6f13dd333c08c38b8f8487061dab9951d746a2bd07bcd2&wait=5 HTTP/1.1" 200 425
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 451
+INFO:root:payload: invest,afnan,intel,1000
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=96a77d3a9271995f32dfa4d2a3b9bb108467b51e92aba7dc667d58541d07e48439edabf34fc39d5273ba8603e8252d77f0a22ccaf5883d7c89a8c0588e97bbb9&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=96a77d3a9271995f32dfa4d2a3b9bb108467b51e92aba7dc667d58541d07e48439edabf34fc39d5273ba8603e8252d77f0a22ccaf5883d7c89a8c0588e97bbb9&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=96a77d3a9271995f32dfa4d2a3b9bb108467b51e92aba7dc667d58541d07e48439edabf34fc39d5273ba8603e8252d77f0a22ccaf5883d7c89a8c0588e97bbb9&wait=5 HTTP/1.1" 200 425
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 451
+INFO:root:payload: invest,afnan,intel,10
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=632819a95d3075063bfc1695f971cb46480c3ab6fc0a4afbc991101312f77955266d7dfb6a9c2c5bf86c3f61a7f5a5667a9f611227cd395dd311c615bfb9d680&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=632819a95d3075063bfc1695f971cb46480c3ab6fc0a4afbc991101312f77955266d7dfb6a9c2c5bf86c3f61a7f5a5667a9f611227cd395dd311c615bfb9d680&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=632819a95d3075063bfc1695f971cb46480c3ab6fc0a4afbc991101312f77955266d7dfb6a9c2c5bf86c3f61a7f5a5667a9f611227cd395dd311c615bfb9d680&wait=5 HTTP/1.1" 200 425
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 451
+INFO:root:payload: addstartup,intel,www.intel.com,israel,5000,0
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=9d83566e636758a39e32e9fd351cbfd7a814fa5ecbbbd58c4f163fd53b3ad84c1c9a9c6683037d2bd39a0cf10fd69b7c90ebc3a665d7759f9eade84bc73d5296&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=9d83566e636758a39e32e9fd351cbfd7a814fa5ecbbbd58c4f163fd53b3ad84c1c9a9c6683037d2bd39a0cf10fd69b7c90ebc3a665d7759f9eade84bc73d5296&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=9d83566e636758a39e32e9fd351cbfd7a814fa5ecbbbd58c4f163fd53b3ad84c1c9a9c6683037d2bd39a0cf10fd69b7c90ebc3a665d7759f9eade84bc73d5296&wait=5 HTTP/1.1" 200 425
+INFO:root:intel added
+INFO:root:payload: invest,afnan,intel,5000
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=bee787f0e0204c7a887a50f929cc4282859ca2aa6b0fffc6280a2d3a433dd28d0aed78605a7c0a100c97ff4834f42d7646dea67d9697c67b7e7e44303cf19ee6&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=bee787f0e0204c7a887a50f929cc4282859ca2aa6b0fffc6280a2d3a433dd28d0aed78605a7c0a100c97ff4834f42d7646dea67d9697c67b7e7e44303cf19ee6&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=bee787f0e0204c7a887a50f929cc4282859ca2aa6b0fffc6280a2d3a433dd28d0aed78605a7c0a100c97ff4834f42d7646dea67d9697c67b7e7e44303cf19ee6&wait=5 HTTP/1.1" 200 425
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 447
+INFO:root:payload: addstartup,wix,www.intel.com,israel,5000,0
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=576e9aaf12fd0c80d1af0c21a6cf4196cf423f042ccec024c75db0ce940174960fa0f776c0b3fc10ae7b0c3f1eb253523a91930f96ea69789f6f30765bc573ae&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=576e9aaf12fd0c80d1af0c21a6cf4196cf423f042ccec024c75db0ce940174960fa0f776c0b3fc10ae7b0c3f1eb253523a91930f96ea69789f6f30765bc573ae&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=576e9aaf12fd0c80d1af0c21a6cf4196cf423f042ccec024c75db0ce940174960fa0f776c0b3fc10ae7b0c3f1eb253523a91930f96ea69789f6f30765bc573ae&wait=5 HTTP/1.1" 200 425
+INFO:root:wix added
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 491
+INFO:root:payload: invest,afnan,wix,20
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=c3b8685ae82124fdb7dac451111484daa8a14fe70217f0c3798e0b04f99bb1af4eb3761b44bf7434c0802a03a99f4a2b90ecc5083ac6975d869d05c1bc3d22a2&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=c3b8685ae82124fdb7dac451111484daa8a14fe70217f0c3798e0b04f99bb1af4eb3761b44bf7434c0802a03a99f4a2b90ecc5083ac6975d869d05c1bc3d22a2&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=c3b8685ae82124fdb7dac451111484daa8a14fe70217f0c3798e0b04f99bb1af4eb3761b44bf7434c0802a03a99f4a2b90ecc5083ac6975d869d05c1bc3d22a2&wait=5 HTTP/1.1" 200 425
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 491
+INFO:root:payload: invest,afnan,wix,20
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=bd630dbb4dc2594acdf588dce115f880f5f257f851f0b9624d7f5817861fb92b3d6795fc7f35e2fba294886d8fbb5e65e4c45c773996d1a1e3ea589ba34b4084&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=bd630dbb4dc2594acdf588dce115f880f5f257f851f0b9624d7f5817861fb92b3d6795fc7f35e2fba294886d8fbb5e65e4c45c773996d1a1e3ea589ba34b4084&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=bd630dbb4dc2594acdf588dce115f880f5f257f851f0b9624d7f5817861fb92b3d6795fc7f35e2fba294886d8fbb5e65e4c45c773996d1a1e3ea589ba34b4084&wait=5 HTTP/1.1" 200 425
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 491
+INFO:root:payload: invest,afnan,wix,20
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=6dac86e978631ade80a4a7137033d112f53e9d9e71f3b7cd3559030d051ec20f2f4df6bfb4dfe1b0aae30747ac56c66775039bb6457fa7bbc898652af4317f32&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=6dac86e978631ade80a4a7137033d112f53e9d9e71f3b7cd3559030d051ec20f2f4df6bfb4dfe1b0aae30747ac56c66775039bb6457fa7bbc898652af4317f32&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=6dac86e978631ade80a4a7137033d112f53e9d9e71f3b7cd3559030d051ec20f2f4df6bfb4dfe1b0aae30747ac56c66775039bb6457fa7bbc898652af4317f32&wait=5 HTTP/1.1" 200 425
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 491
+INFO:root:payload: invest,afnan,wix,4940
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=725cad62ee5de378cffdc6e915e45e051529660beb8f9f3de316a248174a033331a8db51769e42d13cabd59ac77546c7d9ea3d2b1f7c610e879ab38b7efea20f&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=725cad62ee5de378cffdc6e915e45e051529660beb8f9f3de316a248174a033331a8db51769e42d13cabd59ac77546c7d9ea3d2b1f7c610e879ab38b7efea20f&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=725cad62ee5de378cffdc6e915e45e051529660beb8f9f3de316a248174a033331a8db51769e42d13cabd59ac77546c7d9ea3d2b1f7c610e879ab38b7efea20f&wait=5 HTTP/1.1" 200 425
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 491
+INFO:root:payload: invest,afnan,wix,494
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=645472e5f4ec29d5b7a97d9395de056e095d463d578a7267676363ffba582aed6df87070e7ea69e6b67e745b097ff6fd8c320e3c381ad85b2e7d5c6a288a6e89&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=645472e5f4ec29d5b7a97d9395de056e095d463d578a7267676363ffba582aed6df87070e7ea69e6b67e745b097ff6fd8c320e3c381ad85b2e7d5c6a288a6e89&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=645472e5f4ec29d5b7a97d9395de056e095d463d578a7267676363ffba582aed6df87070e7ea69e6b67e745b097ff6fd8c320e3c381ad85b2e7d5c6a288a6e89&wait=5 HTTP/1.1" 200 425
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 495
+INFO:root:payload: addstartup,intel,www.intel.com,israel,5000,0
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=ace08cfac9247b3ddea4fb2d976f1444231f26ccf63d08ea5d0d86b2fe17e5c330ed75515b1be28f6a5f1beb18ae7a2e6660589cf614bf6b9b870a0049d8f468&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=ace08cfac9247b3ddea4fb2d976f1444231f26ccf63d08ea5d0d86b2fe17e5c330ed75515b1be28f6a5f1beb18ae7a2e6660589cf614bf6b9b870a0049d8f468&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=ace08cfac9247b3ddea4fb2d976f1444231f26ccf63d08ea5d0d86b2fe17e5c330ed75515b1be28f6a5f1beb18ae7a2e6660589cf614bf6b9b870a0049d8f468&wait=5 HTTP/1.1" 200 425
+INFO:root:intel added
+INFO:root:payload: invest,afnan,intel,2000
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=87fd3b14624deac1e13c24ee7d41ecbaa51d226ae2a382bfc8348e727d585c05136bb9e310798ba375b99f4a5b7493b493a90ac828a89b221df7bd44bf31feef&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=87fd3b14624deac1e13c24ee7d41ecbaa51d226ae2a382bfc8348e727d585c05136bb9e310798ba375b99f4a5b7493b493a90ac828a89b221df7bd44bf31feef&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=87fd3b14624deac1e13c24ee7d41ecbaa51d226ae2a382bfc8348e727d585c05136bb9e310798ba375b99f4a5b7493b493a90ac828a89b221df7bd44bf31feef&wait=5 HTTP/1.1" 200 425
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 495
+DEBUG:root:startup name not entered
+DEBUG:root:startup name not entered
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 495
+INFO:root:payload: addstartup,intel,www.intel.com,israel,5000,0
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=cf5280939f93a2eaac0587560667f804876f5f32fc0f3abf225471a287f886b44a3e17a4845a3b282fcbad938b5cdf1718186544a5bfb5fc87b9a4e06a4801ea&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=cf5280939f93a2eaac0587560667f804876f5f32fc0f3abf225471a287f886b44a3e17a4845a3b282fcbad938b5cdf1718186544a5bfb5fc87b9a4e06a4801ea&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=cf5280939f93a2eaac0587560667f804876f5f32fc0f3abf225471a287f886b44a3e17a4845a3b282fcbad938b5cdf1718186544a5bfb5fc87b9a4e06a4801ea&wait=5 HTTP/1.1" 200 425
+INFO:root:intel added
+INFO:root:payload: invest,afnan,intel,2000
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=5d0a9b9ad2c2747994cb6ee8c657c651e51fe4615dd6666031edd310232f37eb3fe672d082f9b00e543097269f997bdd0f3111c6b36aab1b5d2c3b2d2b568112&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=5d0a9b9ad2c2747994cb6ee8c657c651e51fe4615dd6666031edd310232f37eb3fe672d082f9b00e543097269f997bdd0f3111c6b36aab1b5d2c3b2d2b568112&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=5d0a9b9ad2c2747994cb6ee8c657c651e51fe4615dd6666031edd310232f37eb3fe672d082f9b00e543097269f997bdd0f3111c6b36aab1b5d2c3b2d2b568112&wait=5 HTTP/1.1" 200 425
+DEBUG:root:startup name not entered
+INFO:root:payload: addstartup,intel,www.intel.com,israel,5000,0
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=d84dce1dcc65da9e261dccaeece2c7d1efd623e86b4436a34b0f33a7384e80a832c1d1f00cf3a9078e85a49f8be9714aaa0c2c3e596831728847d5ebc7eb72c0&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=d84dce1dcc65da9e261dccaeece2c7d1efd623e86b4436a34b0f33a7384e80a832c1d1f00cf3a9078e85a49f8be9714aaa0c2c3e596831728847d5ebc7eb72c0&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=d84dce1dcc65da9e261dccaeece2c7d1efd623e86b4436a34b0f33a7384e80a832c1d1f00cf3a9078e85a49f8be9714aaa0c2c3e596831728847d5ebc7eb72c0&wait=5 HTTP/1.1" 200 425
+INFO:root:intel added
+INFO:root:payload: addstartup,wix,www.intel.com,london,5000,0
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=31b83b12ed3652502533a4e1547bb3d7e66ad38f9177b77ae0e703779d7802f0784c41b57850e17ae8ade8acbb5be66c1d6e8a230c93c996693605f5ff780e28&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=31b83b12ed3652502533a4e1547bb3d7e66ad38f9177b77ae0e703779d7802f0784c41b57850e17ae8ade8acbb5be66c1d6e8a230c93c996693605f5ff780e28&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=31b83b12ed3652502533a4e1547bb3d7e66ad38f9177b77ae0e703779d7802f0784c41b57850e17ae8ade8acbb5be66c1d6e8a230c93c996693605f5ff780e28&wait=5 HTTP/1.1" 200 425
+INFO:root:wix added
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 491
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 491
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 491
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 491
+INFO:root:payload: invest,afnan,intel,4000
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=1e5335f3c81e7df869dfcc0abd6b72172d49d68cfbcceee0a44e4e77a95218753fc05467aba22e74e813e3ac009beef19de46dead1c06ada2da4903a7c0e2e1e&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=1e5335f3c81e7df869dfcc0abd6b72172d49d68cfbcceee0a44e4e77a95218753fc05467aba22e74e813e3ac009beef19de46dead1c06ada2da4903a7c0e2e1e&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=1e5335f3c81e7df869dfcc0abd6b72172d49d68cfbcceee0a44e4e77a95218753fc05467aba22e74e813e3ac009beef19de46dead1c06ada2da4903a7c0e2e1e&wait=5 HTTP/1.1" 200 425
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 495
+INFO:root:payload: invest,afnan,intel,1000
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=d31ae41d1084455ae6ddc9586b08b44b8cad454c57a3440b14bab6b1be70c2054ff498b69369bbf4b29fdb3d7e873795f664807003b71944e86faeca171e9166&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=d31ae41d1084455ae6ddc9586b08b44b8cad454c57a3440b14bab6b1be70c2054ff498b69369bbf4b29fdb3d7e873795f664807003b71944e86faeca171e9166&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=d31ae41d1084455ae6ddc9586b08b44b8cad454c57a3440b14bab6b1be70c2054ff498b69369bbf4b29fdb3d7e873795f664807003b71944e86faeca171e9166&wait=5 HTTP/1.1" 200 425
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 495
+INFO:root:payload: invest,afnan,intel,999
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=f4ba9866e6a7a6695708f911fa11ec12949a109d6ca4a448a2cad14532ebb5b7016cce22beecb40cc0ea93a068489f9b796372acb9535d4cfecd8d3e5052a174&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=f4ba9866e6a7a6695708f911fa11ec12949a109d6ca4a448a2cad14532ebb5b7016cce22beecb40cc0ea93a068489f9b796372acb9535d4cfecd8d3e5052a174&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=f4ba9866e6a7a6695708f911fa11ec12949a109d6ca4a448a2cad14532ebb5b7016cce22beecb40cc0ea93a068489f9b796372acb9535d4cfecd8d3e5052a174&wait=5 HTTP/1.1" 200 425
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 495
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 495
+INFO:root:payload: invest,afnan,intel,99
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=2bcfa748e935ea4c77a6c1540b5c290ff5d5a5ad12a5a79ccf23f1f86330cbd457d5a54473d35be82cba6aa0148554c2adab3eca833dbea2ee5cf7d4a5b4bd4d&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=2bcfa748e935ea4c77a6c1540b5c290ff5d5a5ad12a5a79ccf23f1f86330cbd457d5a54473d35be82cba6aa0148554c2adab3eca833dbea2ee5cf7d4a5b4bd4d&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=2bcfa748e935ea4c77a6c1540b5c290ff5d5a5ad12a5a79ccf23f1f86330cbd457d5a54473d35be82cba6aa0148554c2adab3eca833dbea2ee5cf7d4a5b4bd4d&wait=5 HTTP/1.1" 200 425
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 495
+INFO:root:payload: addstartup,JPMorgan,www.jpmorganchase.com,Israel,2000000,0
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=cb2575eb98c75643d313e4a17e64d4591938fe0813e63308ae95b26da37f9e6a54f68ad6633c7c36c1412107af0a9dc6a80747fc73685d6bc405d67c8687b1f4&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=cb2575eb98c75643d313e4a17e64d4591938fe0813e63308ae95b26da37f9e6a54f68ad6633c7c36c1412107af0a9dc6a80747fc73685d6bc405d67c8687b1f4&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=cb2575eb98c75643d313e4a17e64d4591938fe0813e63308ae95b26da37f9e6a54f68ad6633c7c36c1412107af0a9dc6a80747fc73685d6bc405d67c8687b1f4&wait=5 HTTP/1.1" 200 425
+INFO:root:JPMorgan added
+INFO:root:payload: addstartup,Fabric,www.fabric.com,israel,1500000,0
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=f18f2ebc5bb218ece1ebb17b8e9fb5d93ca14475ac0b7002f6e88253ff0d324f5c55dcfc7989190886e27deda611e89f98a1768362043ab5b238e0bc462ca5d4&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=f18f2ebc5bb218ece1ebb17b8e9fb5d93ca14475ac0b7002f6e88253ff0d324f5c55dcfc7989190886e27deda611e89f98a1768362043ab5b238e0bc462ca5d4&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=f18f2ebc5bb218ece1ebb17b8e9fb5d93ca14475ac0b7002f6e88253ff0d324f5c55dcfc7989190886e27deda611e89f98a1768362043ab5b238e0bc462ca5d4&wait=5 HTTP/1.1" 200 425
+INFO:root:Fabric added
+INFO:root:payload: addstartup,Flytrex,www.flytrex.com,israel,20000000,0
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=fc9cae09153107789d64f96daa1e3cf59738d52e0cc3bd2ba332e9a2ece6db0c498fe292f26ba1ca585619ed3af9923544e84cdf805259dae7c8c85ac01a71c2&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=fc9cae09153107789d64f96daa1e3cf59738d52e0cc3bd2ba332e9a2ece6db0c498fe292f26ba1ca585619ed3af9923544e84cdf805259dae7c8c85ac01a71c2&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=fc9cae09153107789d64f96daa1e3cf59738d52e0cc3bd2ba332e9a2ece6db0c498fe292f26ba1ca585619ed3af9923544e84cdf805259dae7c8c85ac01a71c2&wait=5 HTTP/1.1" 200 425
+INFO:root:Flytrex added
+INFO:root:payload: addstartup,Gett,www.gett.com,israel,630000,0
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=4538a53af020f817b66a23be2501f84ace6e0b38ca88a36124305493d0dacf8158174b3ec36e4f3ebb17bd58a032642564ceac8cc4e79c57ab9eede0def6fe21&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=4538a53af020f817b66a23be2501f84ace6e0b38ca88a36124305493d0dacf8158174b3ec36e4f3ebb17bd58a032642564ceac8cc4e79c57ab9eede0def6fe21&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=4538a53af020f817b66a23be2501f84ace6e0b38ca88a36124305493d0dacf8158174b3ec36e4f3ebb17bd58a032642564ceac8cc4e79c57ab9eede0def6fe21&wait=5 HTTP/1.1" 200 425
+INFO:root:Gett added
+INFO:root:payload: addstartup,IronSource,www.ironsource.com,america,2000000,0
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=7f3db58878f2797e9628c99446bf37b312d6d0d36a3b79d07fdf2024abb73c963a7eda32102ea66e23fbccb1fdcb052bad9493e4b95827839504097c15d4e8da&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=7f3db58878f2797e9628c99446bf37b312d6d0d36a3b79d07fdf2024abb73c963a7eda32102ea66e23fbccb1fdcb052bad9493e4b95827839504097c15d4e8da&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=7f3db58878f2797e9628c99446bf37b312d6d0d36a3b79d07fdf2024abb73c963a7eda32102ea66e23fbccb1fdcb052bad9493e4b95827839504097c15d4e8da&wait=5 HTTP/1.1" 200 425
+INFO:root:IronSource added
+INFO:root:payload: addstartup,Fivver,www.fivver.com,israel,2000000,0
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=fcb3e0c4e9b831b9efd5e7b335312c67bf56b6314ddbf8609703b6d84f5f547b3d4840680d03d7360935e3be051abe92d8c70d767b3e113bfe884d21bf5aaa32&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=fcb3e0c4e9b831b9efd5e7b335312c67bf56b6314ddbf8609703b6d84f5f547b3d4840680d03d7360935e3be051abe92d8c70d767b3e113bfe884d21bf5aaa32&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=fcb3e0c4e9b831b9efd5e7b335312c67bf56b6314ddbf8609703b6d84f5f547b3d4840680d03d7360935e3be051abe92d8c70d767b3e113bfe884d21bf5aaa32&wait=5 HTTP/1.1" 200 425
+INFO:root:Fivver added
+INFO:root:payload: addstartup,Ponaryas,www.ponaryas.com,france,2000000,0
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=0d6cc6f5a6c4272570451913e178b11560be5e47dcaf8867cce8c85f1a9d399b4b11500db4e5d242faae2c9410904581b29f47af2cab7b460ce0a29b7cdef803&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=0d6cc6f5a6c4272570451913e178b11560be5e47dcaf8867cce8c85f1a9d399b4b11500db4e5d242faae2c9410904581b29f47af2cab7b460ce0a29b7cdef803&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=0d6cc6f5a6c4272570451913e178b11560be5e47dcaf8867cce8c85f1a9d399b4b11500db4e5d242faae2c9410904581b29f47af2cab7b460ce0a29b7cdef803&wait=5 HTTP/1.1" 200 425
+INFO:root:Ponaryas added
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 795
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 795
+INFO:root:payload: invest,shlomi,JPMorgan,1000
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=5eaad7e10a462f3b57d47e96ca6f5bd51ad45467dd5fc47c576680be77cd9f5a1d13d2e7be055ca7cc696b2be2e64960bba357066f2e6b5f2a5f63cbddf3f011&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=5eaad7e10a462f3b57d47e96ca6f5bd51ad45467dd5fc47c576680be77cd9f5a1d13d2e7be055ca7cc696b2be2e64960bba357066f2e6b5f2a5f63cbddf3f011&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=5eaad7e10a462f3b57d47e96ca6f5bd51ad45467dd5fc47c576680be77cd9f5a1d13d2e7be055ca7cc696b2be2e64960bba357066f2e6b5f2a5f63cbddf3f011&wait=5 HTTP/1.1" 200 425
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 799
+INFO:root:payload: invest,hussien,JPMorgan,500
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=9b27b51911a580e6db0b38c9f718dec66ad0b28c89cec0e973a413a4578edc5f669b59d5d76ac68964cf1e473311b28ea97d7efd1d3b5d01d4d524dffa71a755&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=9b27b51911a580e6db0b38c9f718dec66ad0b28c89cec0e973a413a4578edc5f669b59d5d76ac68964cf1e473311b28ea97d7efd1d3b5d01d4d524dffa71a755&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=9b27b51911a580e6db0b38c9f718dec66ad0b28c89cec0e973a413a4578edc5f669b59d5d76ac68964cf1e473311b28ea97d7efd1d3b5d01d4d524dffa71a755&wait=5 HTTP/1.1" 200 425
+INFO:root:payload: invest,afnan,JPMorgan,1000
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=dcbf8e85a0363a336d0017098627ecc56c3818b33f0fec9ff06e8b301b7df36e11d4a90e3bbbce1535a3baefd8d7e3f9ee70926772f73587c277ee058345117c&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=dcbf8e85a0363a336d0017098627ecc56c3818b33f0fec9ff06e8b301b7df36e11d4a90e3bbbce1535a3baefd8d7e3f9ee70926772f73587c277ee058345117c&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=dcbf8e85a0363a336d0017098627ecc56c3818b33f0fec9ff06e8b301b7df36e11d4a90e3bbbce1535a3baefd8d7e3f9ee70926772f73587c277ee058345117c&wait=5 HTTP/1.1" 200 425
+INFO:root:payload: invest,hussien,Gett,500
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=11d49715b64b7771faa9dc7cdd61a9a58e758fec090cc772f94e05131a26706641cf644964626a562d7f6f6aedd2b970afc85a544fceb7cf4b7958e5e37af4eb&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=11d49715b64b7771faa9dc7cdd61a9a58e758fec090cc772f94e05131a26706641cf644964626a562d7f6f6aedd2b970afc85a544fceb7cf4b7958e5e37af4eb&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=11d49715b64b7771faa9dc7cdd61a9a58e758fec090cc772f94e05131a26706641cf644964626a562d7f6f6aedd2b970afc85a544fceb7cf4b7958e5e37af4eb&wait=5 HTTP/1.1" 200 425
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 799
+INFO:root:payload: invest,afnan,Fivver,2000000
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=46ea4e813c4f3a5eff48dbc0a8ca47a990323aa8d0b7bd7ca50079c4e75b03f722dabe959f2a6d5513153957d5cf611cdb1eb381d9e3292a2109bcd4758230ef&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=46ea4e813c4f3a5eff48dbc0a8ca47a990323aa8d0b7bd7ca50079c4e75b03f722dabe959f2a6d5513153957d5cf611cdb1eb381d9e3292a2109bcd4758230ef&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=46ea4e813c4f3a5eff48dbc0a8ca47a990323aa8d0b7bd7ca50079c4e75b03f722dabe959f2a6d5513153957d5cf611cdb1eb381d9e3292a2109bcd4758230ef&wait=5 HTTP/1.1" 200 425
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 807
+INFO:root:payload: invest,afnan,Fivver,1
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=3ea47538588fa051c47d95cb333e0e34affe478eac60ec35fe7114531d229b9e2ae4d3a363256bd974035a5605204cfc84480efc715068835b4d1c64228810ff&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=3ea47538588fa051c47d95cb333e0e34affe478eac60ec35fe7114531d229b9e2ae4d3a363256bd974035a5605204cfc84480efc715068835b4d1c64228810ff&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=3ea47538588fa051c47d95cb333e0e34affe478eac60ec35fe7114531d229b9e2ae4d3a363256bd974035a5605204cfc84480efc715068835b4d1c64228810ff&wait=5 HTTP/1.1" 200 657
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 807
+INFO:root:sending to http://rest-api:8008/state/cc6afd0e7ac4096880068c229d77c082291f95a431b074898d89af68966b16ee1dd6ad
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd0e7ac4096880068c229d77c082291f95a431b074898d89af68966b16ee1dd6ad HTTP/1.1" 200 451
+INFO:root:sending to http://rest-api:8008/state/cc6afd0e7ac4096880068c229d77c082291f95a431b074898d89af68966b16ee1dd6ad
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd0e7ac4096880068c229d77c082291f95a431b074898d89af68966b16ee1dd6ad HTTP/1.1" 200 451
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 807
+INFO:root:payload: invest,afnan,Gett,7000
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=773e3d72598dcf8caf2195441d295d3e6e0941729f310c861e0d82e24bf4c1441a57792f1034948a94092636d94908e7b450e28374a357f9342dbb0e79300faf&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=773e3d72598dcf8caf2195441d295d3e6e0941729f310c861e0d82e24bf4c1441a57792f1034948a94092636d94908e7b450e28374a357f9342dbb0e79300faf&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=773e3d72598dcf8caf2195441d295d3e6e0941729f310c861e0d82e24bf4c1441a57792f1034948a94092636d94908e7b450e28374a357f9342dbb0e79300faf&wait=5 HTTP/1.1" 200 425
+INFO:root:payload: invest,afnan,Gett,70000
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=bf8e81424b4345a61f33e3d014254c58c118f2ecc499030311a3d8ac71eafdf9766f8dd3ff3e1319c58b54c78c0db3b72fdd1c45efbfed5da9e21f66b27bdb4e&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=bf8e81424b4345a61f33e3d014254c58c118f2ecc499030311a3d8ac71eafdf9766f8dd3ff3e1319c58b54c78c0db3b72fdd1c45efbfed5da9e21f66b27bdb4e&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=bf8e81424b4345a61f33e3d014254c58c118f2ecc499030311a3d8ac71eafdf9766f8dd3ff3e1319c58b54c78c0db3b72fdd1c45efbfed5da9e21f66b27bdb4e&wait=5 HTTP/1.1" 200 425
+INFO:root:payload: invest,afnan,Gett,700000
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=615bb97968b57faa08127f4c89e9c4891b7452e1ea6c635fa844c33435b7c9de6bfa0a96d9a82aa1e9fd01639f49dc87a3c7d7321078a58d8cd208b041e6eeb9&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=615bb97968b57faa08127f4c89e9c4891b7452e1ea6c635fa844c33435b7c9de6bfa0a96d9a82aa1e9fd01639f49dc87a3c7d7321078a58d8cd208b041e6eeb9&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=615bb97968b57faa08127f4c89e9c4891b7452e1ea6c635fa844c33435b7c9de6bfa0a96d9a82aa1e9fd01639f49dc87a3c7d7321078a58d8cd208b041e6eeb9&wait=5 HTTP/1.1" 200 425
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 811
+INFO:root:payload: invest,afnan,Gett,70000000
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=1435096eb4bdca5572a1751e614983f36db8ab7cc390b91aa968ffd10520e63b6a76d9724eeed4796aae26398f56730c942a6a5be86cb36a6cefb4ec15199f10&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=1435096eb4bdca5572a1751e614983f36db8ab7cc390b91aa968ffd10520e63b6a76d9724eeed4796aae26398f56730c942a6a5be86cb36a6cefb4ec15199f10&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=1435096eb4bdca5572a1751e614983f36db8ab7cc390b91aa968ffd10520e63b6a76d9724eeed4796aae26398f56730c942a6a5be86cb36a6cefb4ec15199f10&wait=5 HTTP/1.1" 200 425
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 811
+INFO:root:payload: addstartup,intel,www.intel.com,israel,5000,0
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=450fad37c1cdb6dbb17417310d3eeb85b0f45d859fa82559efe49753d4ef2eb10e83566fdf89289b886463b7013db3d963f6157e837dcb4b5c71aca1ff191a22&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=450fad37c1cdb6dbb17417310d3eeb85b0f45d859fa82559efe49753d4ef2eb10e83566fdf89289b886463b7013db3d963f6157e837dcb4b5c71aca1ff191a22&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=450fad37c1cdb6dbb17417310d3eeb85b0f45d859fa82559efe49753d4ef2eb10e83566fdf89289b886463b7013db3d963f6157e837dcb4b5c71aca1ff191a22&wait=5 HTTP/1.1" 200 425
+INFO:root:intel added
+INFO:root:payload: invest,afnan,intel,6000
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=0c16ef898f6accf915c463dfeee9338a9af647e564d5d6ac5d1b20eb3ef006662efe5d8ed57b66c16ccfc8c3478e8d75a8b39055d8d4b325de2f3139de36c98e&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=0c16ef898f6accf915c463dfeee9338a9af647e564d5d6ac5d1b20eb3ef006662efe5d8ed57b66c16ccfc8c3478e8d75a8b39055d8d4b325de2f3139de36c98e&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=0c16ef898f6accf915c463dfeee9338a9af647e564d5d6ac5d1b20eb3ef006662efe5d8ed57b66c16ccfc8c3478e8d75a8b39055d8d4b325de2f3139de36c98e&wait=5 HTTP/1.1" 200 639
+INFO:root:payload: addstartup,JPMorgan,www.jpmorganchase.comn,israel,150000,0
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=2f80343f51cb7cdcbc9d77981a24f7c9343b827b2d264c15c95df77dab523b851548592bee06ecdde2b506bcd542e4449d86902e62a710968049ee338a6d1ee6&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=2f80343f51cb7cdcbc9d77981a24f7c9343b827b2d264c15c95df77dab523b851548592bee06ecdde2b506bcd542e4449d86902e62a710968049ee338a6d1ee6&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=2f80343f51cb7cdcbc9d77981a24f7c9343b827b2d264c15c95df77dab523b851548592bee06ecdde2b506bcd542e4449d86902e62a710968049ee338a6d1ee6&wait=5 HTTP/1.1" 200 425
+INFO:root:JPMorgan added
+INFO:root:payload: addstartup,Gett,www.gett.com,israel,630000,0
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=47a3e7fb80448e49344afe9102ccd3b9fe26eb2d1d327fcc1909c373c94443713d07c195305197a5affb5eba2025bf6698506a7251ac86f1877029fe4c21611a&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=47a3e7fb80448e49344afe9102ccd3b9fe26eb2d1d327fcc1909c373c94443713d07c195305197a5affb5eba2025bf6698506a7251ac86f1877029fe4c21611a&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=47a3e7fb80448e49344afe9102ccd3b9fe26eb2d1d327fcc1909c373c94443713d07c195305197a5affb5eba2025bf6698506a7251ac86f1877029fe4c21611a&wait=5 HTTP/1.1" 200 425
+INFO:root:Gett added
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 511
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 511
+INFO:root:payload: invest,shlomi,JPMorgan,50001
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=a47f9c07676312fb7ecd6efa5799d252a5d066e66c6e17a188f9a1d1bd57a3b01a54338cca19f56f278ca9b8b1c8cb85195a3b7fd7da12bb1550b4d9ac245a70&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=a47f9c07676312fb7ecd6efa5799d252a5d066e66c6e17a188f9a1d1bd57a3b01a54338cca19f56f278ca9b8b1c8cb85195a3b7fd7da12bb1550b4d9ac245a70&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=a47f9c07676312fb7ecd6efa5799d252a5d066e66c6e17a188f9a1d1bd57a3b01a54338cca19f56f278ca9b8b1c8cb85195a3b7fd7da12bb1550b4d9ac245a70&wait=5 HTTP/1.1" 200 639
+INFO:root:payload: invest,shlomi,JPMorgan,50000
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=dde66a19bcdff6a9d918bd2136cc3fdd08d13f3419015d23898c16707519c4957507b37060604d60d71b765e5129d8bad80b940aa86a2a55e7a332a967ddd12d&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=dde66a19bcdff6a9d918bd2136cc3fdd08d13f3419015d23898c16707519c4957507b37060604d60d71b765e5129d8bad80b940aa86a2a55e7a332a967ddd12d&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=dde66a19bcdff6a9d918bd2136cc3fdd08d13f3419015d23898c16707519c4957507b37060604d60d71b765e5129d8bad80b940aa86a2a55e7a332a967ddd12d&wait=5 HTTP/1.1" 200 639
+INFO:root:payload: addstartup,JPMorgan,www.jpmorganchase.comn,israel,150000,0
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=d0563d7964d1a26d7ef098039b9725c4264df6e301a679c4f7c8f25c02f82952795239f96c8a3987188894e12d2f81d7e4e1d04becff7756b10e83cf5868e055&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=d0563d7964d1a26d7ef098039b9725c4264df6e301a679c4f7c8f25c02f82952795239f96c8a3987188894e12d2f81d7e4e1d04becff7756b10e83cf5868e055&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=d0563d7964d1a26d7ef098039b9725c4264df6e301a679c4f7c8f25c02f82952795239f96c8a3987188894e12d2f81d7e4e1d04becff7756b10e83cf5868e055&wait=5 HTTP/1.1" 200 425
+INFO:root:JPMorgan added
+INFO:root:payload: addstartup,Gett,www.gett.com,israel,630000,0
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=24f5082e0a02946f74f02e06ecd23ef5e54015ce078a9890f7bba7a0c161e1047bec5abe708e6078102d31e7dbc11d1f196a27e1a0be408e4e9bead52f61b9f1&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=24f5082e0a02946f74f02e06ecd23ef5e54015ce078a9890f7bba7a0c161e1047bec5abe708e6078102d31e7dbc11d1f196a27e1a0be408e4e9bead52f61b9f1&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=24f5082e0a02946f74f02e06ecd23ef5e54015ce078a9890f7bba7a0c161e1047bec5abe708e6078102d31e7dbc11d1f196a27e1a0be408e4e9bead52f61b9f1&wait=5 HTTP/1.1" 200 425
+INFO:root:Gett added
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 511
+INFO:root:payload: invest,shlomi,JPMorgan,50001
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=4648673e8d5f1336f74d8dba5bcc5e28a313588fc420edb4e27c84c3fabfe467018ef43e354aaa3581f41e6ad80bc5fe455ccc1a2c1cd3344c8e8f7269c787ce&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=4648673e8d5f1336f74d8dba5bcc5e28a313588fc420edb4e27c84c3fabfe467018ef43e354aaa3581f41e6ad80bc5fe455ccc1a2c1cd3344c8e8f7269c787ce&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=4648673e8d5f1336f74d8dba5bcc5e28a313588fc420edb4e27c84c3fabfe467018ef43e354aaa3581f41e6ad80bc5fe455ccc1a2c1cd3344c8e8f7269c787ce&wait=5 HTTP/1.1" 200 425
+INFO:root:payload: invest,afnan,JPMorgan,50002
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=f27098e9495a37a92ccd98e5c633f020002f6f16501ee31f3a0cf250fd20197e424d23487da7acfe52bef06317288ec9ff1cbd98715f9c151bc7a479fe131518&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=f27098e9495a37a92ccd98e5c633f020002f6f16501ee31f3a0cf250fd20197e424d23487da7acfe52bef06317288ec9ff1cbd98715f9c151bc7a479fe131518&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=f27098e9495a37a92ccd98e5c633f020002f6f16501ee31f3a0cf250fd20197e424d23487da7acfe52bef06317288ec9ff1cbd98715f9c151bc7a479fe131518&wait=5 HTTP/1.1" 200 425
+INFO:root:payload: invest,hussien,Gett,20000
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=e51055d23d81da6007e90e13ce2bff68cb63bf88099b8fd86dccae4f5986eb5178bd4701debcc57541286d7c138da889f0a8469eda85bc792f4187a530133ae6&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=e51055d23d81da6007e90e13ce2bff68cb63bf88099b8fd86dccae4f5986eb5178bd4701debcc57541286d7c138da889f0a8469eda85bc792f4187a530133ae6&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=e51055d23d81da6007e90e13ce2bff68cb63bf88099b8fd86dccae4f5986eb5178bd4701debcc57541286d7c138da889f0a8469eda85bc792f4187a530133ae6&wait=5 HTTP/1.1" 200 425
+INFO:root:payload: invest,hussien,JPMorgan,60000
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=752be296aebb7bb9a8f3234ccdaca76aec147da1478a5ff3ae0412fa5512625d4d280b72d9eb3ce7a51e8c4fae097d43eeb2eb185799b7326dea78b159a5f064&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=752be296aebb7bb9a8f3234ccdaca76aec147da1478a5ff3ae0412fa5512625d4d280b72d9eb3ce7a51e8c4fae097d43eeb2eb185799b7326dea78b159a5f064&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=752be296aebb7bb9a8f3234ccdaca76aec147da1478a5ff3ae0412fa5512625d4d280b72d9eb3ce7a51e8c4fae097d43eeb2eb185799b7326dea78b159a5f064&wait=5 HTTP/1.1" 200 425
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 523
+INFO:root:sending to http://rest-api:8008/state/cc6afd0e7ac4096880068c229d77c082291f95a431b074898d89af68966b16ee1dd6ad
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd0e7ac4096880068c229d77c082291f95a431b074898d89af68966b16ee1dd6ad HTTP/1.1" 200 475
+INFO:root:payload: addstartup,JPMorgan,www.jpmorganchase.comn,israel,150000,0
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=3430b197874124c4c3b024a944bea4ada0ac4ebc04d98414d4f9a354a90b8a754fb94b72f64d01ecd58ce8cc014cde2a01337f2c63b9aef5a85ab6299c6bf19d&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=3430b197874124c4c3b024a944bea4ada0ac4ebc04d98414d4f9a354a90b8a754fb94b72f64d01ecd58ce8cc014cde2a01337f2c63b9aef5a85ab6299c6bf19d&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=3430b197874124c4c3b024a944bea4ada0ac4ebc04d98414d4f9a354a90b8a754fb94b72f64d01ecd58ce8cc014cde2a01337f2c63b9aef5a85ab6299c6bf19d&wait=5 HTTP/1.1" 200 425
+INFO:root:JPMorgan added
+INFO:root:payload: invest,shlomi,JPMorgan,50001
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=a61cdab7dab23bf69fd26244bd5e962bfb7f94fde3cbe7136cc6d775ac65f9fd52362b4a0ad74f054e4dc3c997ee2db4054e6aa02420c2ce95c3be36b7f07fcb&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=a61cdab7dab23bf69fd26244bd5e962bfb7f94fde3cbe7136cc6d775ac65f9fd52362b4a0ad74f054e4dc3c997ee2db4054e6aa02420c2ce95c3be36b7f07fcb&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=a61cdab7dab23bf69fd26244bd5e962bfb7f94fde3cbe7136cc6d775ac65f9fd52362b4a0ad74f054e4dc3c997ee2db4054e6aa02420c2ce95c3be36b7f07fcb&wait=5 HTTP/1.1" 200 425
+INFO:root:payload: invest,afnan,JPMorgan,50002
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=555be612606e65369211bb059da47aafa754cdc90f62b7dbb7921532d78d72bc65002822eed01451439651023a517406c253d88aba77c0c336fa9e813567cf81&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=555be612606e65369211bb059da47aafa754cdc90f62b7dbb7921532d78d72bc65002822eed01451439651023a517406c253d88aba77c0c336fa9e813567cf81&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=555be612606e65369211bb059da47aafa754cdc90f62b7dbb7921532d78d72bc65002822eed01451439651023a517406c253d88aba77c0c336fa9e813567cf81&wait=5 HTTP/1.1" 200 425
+INFO:root:payload: invest,hussien,JPMorgan,60000
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=1f9f80dc2bc0c37c6e5f6a37dccd7c1f4651b69f291e6cbb4cbefbefdf2901da6d166a93b1df0b96e682ea5bebc9f714a008bcd7d049444349d9d9c6e8c8972b&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=1f9f80dc2bc0c37c6e5f6a37dccd7c1f4651b69f291e6cbb4cbefbefdf2901da6d166a93b1df0b96e682ea5bebc9f714a008bcd7d049444349d9d9c6e8c8972b&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=1f9f80dc2bc0c37c6e5f6a37dccd7c1f4651b69f291e6cbb4cbefbefdf2901da6d166a93b1df0b96e682ea5bebc9f714a008bcd7d049444349d9d9c6e8c8972b&wait=5 HTTP/1.1" 200 425
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 475
+INFO:root:sending to http://rest-api:8008/state/cc6afd0e7ac4096880068c229d77c082291f95a431b074898d89af68966b16ee1dd6ad
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd0e7ac4096880068c229d77c082291f95a431b074898d89af68966b16ee1dd6ad HTTP/1.1" 200 491
+INFO:root:payload: addstartup,JPMorgan,www.jpmorganchase.comn,israel,150000,0
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=2d2f8a6542ac636de0ae31d7494a3e539765efb3dade61907f5cee1b8bed5e5a0a01fb35c47abdbac02ab8d54e717894acc5c74888b1af5bf9e4f24442b9ed05&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=2d2f8a6542ac636de0ae31d7494a3e539765efb3dade61907f5cee1b8bed5e5a0a01fb35c47abdbac02ab8d54e717894acc5c74888b1af5bf9e4f24442b9ed05&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=2d2f8a6542ac636de0ae31d7494a3e539765efb3dade61907f5cee1b8bed5e5a0a01fb35c47abdbac02ab8d54e717894acc5c74888b1af5bf9e4f24442b9ed05&wait=5 HTTP/1.1" 200 425
+INFO:root:JPMorgan added
+INFO:root:payload: addstartup,Gett,www.gett.com,israel,630000,0
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=a9c6deb10d2b82fbf390a98d8fd700df96a7579d48f1b07b799731eb0271b0db41c071894320746c428e04d0a6d247c3c30adfea46cb9450b2fddc5ceb1f07f0&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=a9c6deb10d2b82fbf390a98d8fd700df96a7579d48f1b07b799731eb0271b0db41c071894320746c428e04d0a6d247c3c30adfea46cb9450b2fddc5ceb1f07f0&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=a9c6deb10d2b82fbf390a98d8fd700df96a7579d48f1b07b799731eb0271b0db41c071894320746c428e04d0a6d247c3c30adfea46cb9450b2fddc5ceb1f07f0&wait=5 HTTP/1.1" 200 425
+INFO:root:Gett added
+INFO:root:payload: invest,shlomi,JPMorgan,50001
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=06d2b8dcef7b180ebbd5e34619e2067aea849114554b8891972fee2798c632f52326b6dd059af749aa3f2e1bb4391b863620fbe746ffe94f09266ff890fd2da6&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=06d2b8dcef7b180ebbd5e34619e2067aea849114554b8891972fee2798c632f52326b6dd059af749aa3f2e1bb4391b863620fbe746ffe94f09266ff890fd2da6&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=06d2b8dcef7b180ebbd5e34619e2067aea849114554b8891972fee2798c632f52326b6dd059af749aa3f2e1bb4391b863620fbe746ffe94f09266ff890fd2da6&wait=5 HTTP/1.1" 200 425
+INFO:root:payload: invest,afnan,JPMorgan,50002
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=db5279ec9c8d539af0cd27e5b5410a4448fb925182b2aa03091937a728c904683ce92cf58cfa3f532b5aa517d9197ed8d0f70c2c9369d255fdaed2a059d972da&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=db5279ec9c8d539af0cd27e5b5410a4448fb925182b2aa03091937a728c904683ce92cf58cfa3f532b5aa517d9197ed8d0f70c2c9369d255fdaed2a059d972da&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=db5279ec9c8d539af0cd27e5b5410a4448fb925182b2aa03091937a728c904683ce92cf58cfa3f532b5aa517d9197ed8d0f70c2c9369d255fdaed2a059d972da&wait=5 HTTP/1.1" 200 425
+INFO:root:payload: invest,hussien,Gett,20000
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=66995dbee3a69f965152a135690c19da190bf768f75eed1b2c114ea944d011e27cc0c5e99cf20685e4334ee6b3d551d459a785de9cd5123ebc0c1b389cfd55b3&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=66995dbee3a69f965152a135690c19da190bf768f75eed1b2c114ea944d011e27cc0c5e99cf20685e4334ee6b3d551d459a785de9cd5123ebc0c1b389cfd55b3&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=66995dbee3a69f965152a135690c19da190bf768f75eed1b2c114ea944d011e27cc0c5e99cf20685e4334ee6b3d551d459a785de9cd5123ebc0c1b389cfd55b3&wait=5 HTTP/1.1" 200 425
+INFO:root:payload: invest,hussien,JPMorgan,60000
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=661ddc85c3268ae82e7fcc850660ad6ec8e87135ed5173d920b6e833d39f543513fe34c2f0bff32a9687a0513fb18b8d9a44b0abecb0975cea65b0a15a5642d6&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=661ddc85c3268ae82e7fcc850660ad6ec8e87135ed5173d920b6e833d39f543513fe34c2f0bff32a9687a0513fb18b8d9a44b0abecb0975cea65b0a15a5642d6&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=661ddc85c3268ae82e7fcc850660ad6ec8e87135ed5173d920b6e833d39f543513fe34c2f0bff32a9687a0513fb18b8d9a44b0abecb0975cea65b0a15a5642d6&wait=5 HTTP/1.1" 200 425
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 523
+INFO:root:sending to http://rest-api:8008/state/cc6afd0e7ac4096880068c229d77c082291f95a431b074898d89af68966b16ee1dd6ad
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd0e7ac4096880068c229d77c082291f95a431b074898d89af68966b16ee1dd6ad HTTP/1.1" 200 515
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 523
+INFO:root:sending to http://rest-api:8008/state/cc6afd0e7ac4096880068c229d77c082291f95a431b074898d89af68966b16ee1dd6ad
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd0e7ac4096880068c229d77c082291f95a431b074898d89af68966b16ee1dd6ad HTTP/1.1" 200 515
+INFO:root:sending to http://rest-api:8008/state/cc6afd0e7ac4096880068c229d77c082291f95a431b074898d89af68966b16ee1dd6ad
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd0e7ac4096880068c229d77c082291f95a431b074898d89af68966b16ee1dd6ad HTTP/1.1" 200 515
+INFO:root:payload: addstartup,JPMorgan,www.jpmorganchase.comn,israel,150000,0
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=01b8af3d5874234c880c1d08e01492f82dc9e60eb8dcecfe5d36c703096f3e5c5efcfe46001adbe490ddc2cd1fef09a39a8379ddcf3816178da53548d5ba9b80&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=01b8af3d5874234c880c1d08e01492f82dc9e60eb8dcecfe5d36c703096f3e5c5efcfe46001adbe490ddc2cd1fef09a39a8379ddcf3816178da53548d5ba9b80&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=01b8af3d5874234c880c1d08e01492f82dc9e60eb8dcecfe5d36c703096f3e5c5efcfe46001adbe490ddc2cd1fef09a39a8379ddcf3816178da53548d5ba9b80&wait=5 HTTP/1.1" 200 425
+INFO:root:JPMorgan added
+INFO:root:payload: invest,afnan,JPMorgan,50002
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=59afae9a745861e5d3d22778d352b9fc7653640676a6be56d947bfdd5a9a95316558a787efabc8145d664f11a9f34a0b6551a5b9f5a5c4ffe331d2a880e05ff0&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=59afae9a745861e5d3d22778d352b9fc7653640676a6be56d947bfdd5a9a95316558a787efabc8145d664f11a9f34a0b6551a5b9f5a5c4ffe331d2a880e05ff0&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=59afae9a745861e5d3d22778d352b9fc7653640676a6be56d947bfdd5a9a95316558a787efabc8145d664f11a9f34a0b6551a5b9f5a5c4ffe331d2a880e05ff0&wait=5 HTTP/1.1" 200 425
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 471
+INFO:root:payload: addstartup,JPMorgan,www.jpmorganchase.comn,Israel,150000,0
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=dab7791c7d05696c38f2967fd9152baa251f57a5c873318f53321e9d10fb85e47bc8bf2d9faa97abcae15bf092de53ecee5e66b0d43a707c5a2e81100f0cf485&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=dab7791c7d05696c38f2967fd9152baa251f57a5c873318f53321e9d10fb85e47bc8bf2d9faa97abcae15bf092de53ecee5e66b0d43a707c5a2e81100f0cf485&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=dab7791c7d05696c38f2967fd9152baa251f57a5c873318f53321e9d10fb85e47bc8bf2d9faa97abcae15bf092de53ecee5e66b0d43a707c5a2e81100f0cf485&wait=5 HTTP/1.1" 200 425
+INFO:root:JPMorgan added
+INFO:root:payload: addstartup,Fabric,www.fabric.com,Israel,150000,0
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=8a36dd4fd7eb5ed8b19901dacbe2db30c19068781772b4933212824563b0c0a07cd3ac3026d5d41264b5971d9eb41743b2c4d4d56c1ec1b8a73a310b87702c7f&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=8a36dd4fd7eb5ed8b19901dacbe2db30c19068781772b4933212824563b0c0a07cd3ac3026d5d41264b5971d9eb41743b2c4d4d56c1ec1b8a73a310b87702c7f&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=8a36dd4fd7eb5ed8b19901dacbe2db30c19068781772b4933212824563b0c0a07cd3ac3026d5d41264b5971d9eb41743b2c4d4d56c1ec1b8a73a310b87702c7f&wait=5 HTTP/1.1" 200 425
+INFO:root:Fabric added
+INFO:root:payload: addstartup,Flytrex,www.flytrex.com,USA,200000,0
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=61d0c386a8691a81d3f34ab1b271e986236e6fc171a18a43bac60b9ae6548a385378a3596632f93c7da2cbdd35197044c9e70ad9525366378f76ed461e36e3a0&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=61d0c386a8691a81d3f34ab1b271e986236e6fc171a18a43bac60b9ae6548a385378a3596632f93c7da2cbdd35197044c9e70ad9525366378f76ed461e36e3a0&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=61d0c386a8691a81d3f34ab1b271e986236e6fc171a18a43bac60b9ae6548a385378a3596632f93c7da2cbdd35197044c9e70ad9525366378f76ed461e36e3a0&wait=5 HTTP/1.1" 200 425
+INFO:root:Flytrex added
+INFO:root:payload: addstartup,Gett,www.gett.com,Israel,630000,0
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=845c6623f5fa7954e297822fc42339195fd615ea88bbfceaca648e1d03987bde5b5c8e3fc244550ebe88517a7a397f5ffb8573ffa31d0b783828576305fbccc2&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=845c6623f5fa7954e297822fc42339195fd615ea88bbfceaca648e1d03987bde5b5c8e3fc244550ebe88517a7a397f5ffb8573ffa31d0b783828576305fbccc2&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=845c6623f5fa7954e297822fc42339195fd615ea88bbfceaca648e1d03987bde5b5c8e3fc244550ebe88517a7a397f5ffb8573ffa31d0b783828576305fbccc2&wait=5 HTTP/1.1" 200 425
+INFO:root:Gett added
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 619
+INFO:root:payload: invest,shlomi,JPMorgan,50000
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=af6c7fc0097893ca5ad7be641185c794850aff5a97b076f9d0812e9fd871acc85aa070251dca5c3b6887fa085ae10486f4adaf33ecb84299216fff321d10b1d2&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=af6c7fc0097893ca5ad7be641185c794850aff5a97b076f9d0812e9fd871acc85aa070251dca5c3b6887fa085ae10486f4adaf33ecb84299216fff321d10b1d2&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=af6c7fc0097893ca5ad7be641185c794850aff5a97b076f9d0812e9fd871acc85aa070251dca5c3b6887fa085ae10486f4adaf33ecb84299216fff321d10b1d2&wait=5 HTTP/1.1" 200 425
+INFO:root:payload: invest,afnan,JPMorgan,50000
+INFO:root:sending to http://rest-api:8008/batches
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"POST /batches HTTP/1.1" 202 183
+INFO:root:
+request sent POST
+
+INFO:root:url : http://rest-api:8008batch_statuses?id=4295fe5cfc4d80392a30cb698e6015b8f3a31954b8727b6c8816ecdf3ca87b53427b65e54ad07042229d6d7fecccb616578a64eeca9a652c14a0dffcaced4b1f&wait=5
+INFO:root:sending to http://rest-api:8008/batch_statuses?id=4295fe5cfc4d80392a30cb698e6015b8f3a31954b8727b6c8816ecdf3ca87b53427b65e54ad07042229d6d7fecccb616578a64eeca9a652c14a0dffcaced4b1f&wait=5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /batch_statuses?id=4295fe5cfc4d80392a30cb698e6015b8f3a31954b8727b6c8816ecdf3ca87b53427b65e54ad07042229d6d7fecccb616578a64eeca9a652c14a0dffcaced4b1f&wait=5 HTTP/1.1" 200 425
+INFO:root:sending to http://rest-api:8008/state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd64befdd6dabfe89dd1a22fb08aefe4d83668c34ff89934790823bd65cf3303f9 HTTP/1.1" 200 619
+INFO:root:sending to http://rest-api:8008/state/cc6afd0e7ac4096880068c229d77c082291f95a431b074898d89af68966b16ee1dd6ad
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): rest-api
+DEBUG:requests.packages.urllib3.connectionpool:"GET /state/cc6afd0e7ac4096880068c229d77c082291f95a431b074898d89af68966b16ee1dd6ad HTTP/1.1" 200 487
